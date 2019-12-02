@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hki-spirng-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider (1).iml" filepath="$PROJECT_DIR$/hki-spirng-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hki-spirng-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider (2).iml" filepath="$PROJECT_DIR$/hki-spirng-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-dependencies/hki-spring-cloud-alibaba-dependencies.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-alibaba-dependencies/hki-spring-cloud-alibaba-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/hki-spring-cloud-alibaba-nacos-consumer.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/hki-spring-cloud-alibaba-nacos-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/hki-spring-cloud-alibaba-nacos-consumer-feign.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/hki-spring-cloud-alibaba-nacos-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/hki-spring-cloud-alibaba-nacos-provider.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/hki-spring-cloud-alibaba-nacos-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hki-spring-cloud-alibaba-parent.iml" filepath="$PROJECT_DIR$/.idea/hki-spring-cloud-alibaba-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-gateway/hki-spring-cloud-gateway.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-gateway/hki-spring-cloud-gateway.iml" />
+    </modules>
+  </component>
+</project>
