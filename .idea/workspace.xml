@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3fc682c-32ad-4dce-9004-c145278ec34a" name="Default Changelist" comment="" />
+    <list default="true" id="d3fc682c-32ad-4dce-9004-c145278ec34a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/init.sh" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/spring-cloud-alibaba-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/hki-spring-cloud-alibaba-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/hki-spirng-cloud-alibaba-nacos-provider/target/" />
@@ -147,6 +149,9 @@
       <find>alibaba</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -227,6 +232,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -239,37 +245,6 @@
             <path>
               <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hki-spring-cloud-alibaba-nacos-consumer-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hki-spring-cloud-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hki-spring-cloud-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hki-spring-cloud-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hki-spring-cloud-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,6 +273,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -387,12 +363,12 @@
       <workItem from="1574845067238" duration="14834000" />
       <workItem from="1574925345498" duration="1437000" />
       <workItem from="1574932046027" duration="1131000" />
-      <workItem from="1574995456978" duration="7718000" />
+      <workItem from="1574995456978" duration="7985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28990000" />
+    <option name="totallyTimeSpent" value="29257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
