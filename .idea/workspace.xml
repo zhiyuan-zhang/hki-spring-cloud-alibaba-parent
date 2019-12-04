@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3fc682c-32ad-4dce-9004-c145278ec34a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap-prod.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/application_bak.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/application_bak.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-cloud-alibaba-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/hki-spring-cloud-alibaba-dependencies/target/" />
@@ -25,103 +30,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap.properties">
+        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+            <state relative-caret-position="187">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap-prod.properties">
+        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/java/hki/spring/cloud/alibaba/nacos/provider/controller/NacosProviderController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/application_bak.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/java/hki/spring/cloud/alibaba/nacos/consumer/feign/controller/NacosConsumerFeignController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/java/hki/spring/cloud/alibaba/nacos/consumer/controller/NacosConsumerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/java/hki/spring/cloud/gateway/filter/AutoFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/core/Ordered.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+            <state relative-caret-position="374">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -142,6 +63,8 @@
       <find>resources</find>
       <find>boot</find>
       <find>alibaba</find>
+      <find>12</find>
+      <find>sentinel</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,16 +94,17 @@
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/java/hki/spring/cloud/alibaba/nacos/consumer/feign/service/EchoServiceFallback.java" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/java/hki/spring/cloud/gateway/GatewayApplication.java" />
-        <option value="$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/java/hki/spring/cloud/gateway/filter/AutoFilter.java" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/java/hki/spring/cloud/alibaba/nacos/provider/controller/NacosProviderController.java" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap-prod.properties" />
+        <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/application_bak.txt" />
+        <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -217,29 +141,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="hki-spring-cloud-alibaba-parent" type="58d84e3e:PackageViewProjectNode" />
-              <item name="hello-spring-cloud-alibaba-nacos-provider" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="hki-spring-cloud-alibaba-parent" type="58d84e3e:PackageViewProjectNode" />
-              <item name="hello-spring-cloud-alibaba-nacos-provider" type="616d4139:PackageViewModuleNode" />
-              <item name="hki.spring.cloud.alibaba.nacos.provider" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer-feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hki-spring-cloud-alibaba-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hki-spring-cloud-alibaba-nacos-consumer-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hki-spring-cloud-alibaba-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -319,6 +283,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="58d84e3e:PackageViewProjectNode" />
+              <item name="hello-spring-cloud-alibaba-nacos-provider" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="hki-spring-cloud-alibaba-parent" type="58d84e3e:PackageViewProjectNode" />
+              <item name="hello-spring-cloud-alibaba-nacos-provider" type="616d4139:PackageViewModuleNode" />
+              <item name="hki.spring.cloud.alibaba.nacos.provider" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -441,18 +422,19 @@
       <workItem from="1574925345498" duration="1437000" />
       <workItem from="1574932046027" duration="1131000" />
       <workItem from="1574995456978" duration="15280000" />
-      <workItem from="1575328596316" duration="2125000" />
+      <workItem from="1575328596316" duration="3040000" />
+      <workItem from="1575422189055" duration="1675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38677000" />
+    <option name="totallyTimeSpent" value="41267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27181688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -468,7 +450,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -478,7 +460,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Tail" order="15" />
       <window_info anchor="bottom" id="Messages" order="16" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -618,13 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
@@ -699,23 +674,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/application_bak.txt">
+    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/java/hki/spring/cloud/alibaba/nacos/provider/controller/NacosProviderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="168">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/java/hki/spring/cloud/alibaba/nacos/consumer/feign/controller/NacosConsumerFeignController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="272">
           <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -725,7 +717,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/src/main/java/hki/spring/cloud/alibaba/nacos/consumer/controller/NacosConsumerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="133">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -735,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/java/hki/spring/cloud/gateway/filter/AutoFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
+        <state relative-caret-position="390">
           <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -750,34 +742,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/application_bak.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hki-spring-cloud-gateway/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/java/hki/spring/cloud/alibaba/nacos/provider/controller/NacosProviderController.java">
+    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/src/main/resources/bootstrap-prod.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="374">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
