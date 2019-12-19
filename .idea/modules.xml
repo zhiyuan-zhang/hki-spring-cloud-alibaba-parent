@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/hki-spring-cloud-alibaba-nacos-consumer-feign.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/hki-spring-cloud-alibaba-nacos-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/hki-spring-cloud-alibaba-nacos-provider.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-provider/hki-spring-cloud-alibaba-nacos-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hki-spring-cloud-alibaba-parent.iml" filepath="$PROJECT_DIR$/.idea/hki-spring-cloud-alibaba-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-external-skywalking/hki-spring-cloud-external-skywalking.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-external-skywalking/hki-spring-cloud-external-skywalking.iml" />
       <module fileurl="file://$PROJECT_DIR$/hki-spring-cloud-gateway/hki-spring-cloud-gateway.iml" filepath="$PROJECT_DIR$/hki-spring-cloud-gateway/hki-spring-cloud-gateway.iml" />
     </modules>
   </component>

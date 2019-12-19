@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-alibaba-nacos-consumer-feign/pom.xml" />
         <option value="$PROJECT_DIR$/hki-spring-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/hki-spring-cloud-external-skywalking/pom.xml" />
       </list>
     </option>
   </component>
