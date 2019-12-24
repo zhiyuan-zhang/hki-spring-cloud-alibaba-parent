@@ -1,0 +1,37 @@
+#spring:
+#  application:
+#    name: rocketmq-consumer
+#    cloud:
+#      steam:
+#        bindings:
+#          input: {destination: test-topic, content-type: application/json, group: test-group}
+#
+#server:
+#  port: 9094
+#
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
+spring:
+  application:
+    name: rocketmq-consumer
+  cloud:
+    stream:
+      rocketmq:
+        binder:
+          namesrv-addr: 192.168.0.60:9876
+        bindings:
+          input: {consumer.orderly: true}
+      bindings:
+        input: {destination: test-topic, content-type: text/plain, group: binder-group, consumer.maxAttempts: 1}
+
+server:
+  port: 9094
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
