@@ -21,11 +21,59 @@ spring:
     stream:
       rocketmq:
         binder:
-          namesrv-addr: 192.168.0.60:9876
+          name-server:  192.168.0.60:9876
         bindings:
-          input: {consumer.orderly: true}
+#          input: {consumer.orderly: true}
+          input:
+            consumer:
+              orderly: true
+          input1:
+            consumer:
+              orderly: true
+          input2:
+            consumer:
+              orderly: false
+              tags: tagStr
+          input3:
+            consumer:
+              tags: tagObj
       bindings:
-        input: {destination: test-topic, content-type: text/plain, group: binder-group, consumer.maxAttempts: 1}
+#        input: {destination: test-topic, content-type: text/plain, group: test-group, consumer.maxAttempts: 1}
+        input:
+          content-type: text/plain
+          destination: test-topic
+          group: test-group
+        input1:
+          content-type: text/plain
+          destination: test1-topic
+          group: test-group1
+        input2:
+          consumer:
+            concurrency: 20
+            maxAttempts: 1
+          content-type: text/plain
+          destination: test-topic
+          group: test-group2
+        input3:
+          consumer:
+            concurrency: 20
+          content-type: application/json
+          destination: test-topic
+          group: test-group3
+        input4:
+          consumer:
+            concurrency: 5
+          content-type: text/plain
+          destination: TransactionTopic
+          group: transaction-group
+        input5:
+          content-type: text/plain
+          destination: pull-topic
+          group: pull-topic-group
+
+
+
+
 
 server:
   port: 9094

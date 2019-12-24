@@ -3,7 +3,9 @@ package hki.spring.cloud.alibaba.rocketmq.provider.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.cloud.stream.annotation.Output;
+import org.springframework.messaging.Message;
 import org.springframework.messaging.MessageChannel;
+import org.springframework.messaging.MessageHeaders;
 import org.springframework.messaging.support.MessageBuilder;
 import org.springframework.stereotype.Service;
 //import org.springframework.messaging.support.MessageBuilder;
@@ -22,6 +24,11 @@ public class ProviderService {
 
 
     public void send(String str){
-        aa.send(MessageBuilder.withPayload(str).build());
+
+        Message<String> build = MessageBuilder.withPayload(str).build();
+        MessageHeaders headers = build.getHeaders();
+        String payload = build.getPayload();
+
+        aa.send(build);
     }
 }
